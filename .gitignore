@@ -1,0 +1,6 @@
+__pycache__
+.venv
+run.sh
+.env
+pharma_dataset
+knowledge_base
